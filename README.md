@@ -1,4 +1,4 @@
-# file upload to firebase using react native image picker
+# Upload Files Using React Native and Firebase
 
 Demo of the app.
 
